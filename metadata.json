@@ -1,0 +1,6 @@
+{
+  "name": "PKH Sehat",
+  "description": "Aplikasi mandiri pelaporan verifikasi komitmen kesehatan PKH (ibu hamil, balita, lansia, disabilitas) berbasis triwulan terintegrasi dengan Google Sheets & Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
